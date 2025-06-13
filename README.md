@@ -1,1 +1,2 @@
-# thesis2022-2023
+# • Diploma Thesis 2022-2023 ~ Department of Computer Engineering and Informatics - University of Patras •
+This project aims to implement a decision support system for the improvement of public transport services. The system is aimed at transport operators who want to improve their passenger transport services based on recommendations derived from simulations of real traffic data. The project is part of a postgraduate thesis.
